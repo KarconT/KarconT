@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarconT
-- 👀 I’m interested in Data science
+- 👀 I’m a Mechanical Engineer interested in Data science
 - 🌱 I’m currently learning Data Science tools
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tacianeconrad@gmail.com
